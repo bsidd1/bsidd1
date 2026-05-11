@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Bilal siddiqui] 👋
 
 I am a passionate learner currently diving into the world of **DevOps** and **Cloud Infrastructure**. I enjoy troubleshooting complex systems and building automated workflows.
 
