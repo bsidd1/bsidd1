@@ -17,6 +17,6 @@ I am a passionate learner currently diving into the world of **DevOps** and **Cl
 - 🤝 Looking for Junior DevOps opportunities
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/bilal-siddiqui-3525883aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-siddiqui-3525883aa)
 
 [![Email](https://img.shields.io/badge/Email-bilalsidd224%40icloud.com-blue?style=flat-square&logo=icloud)](mailto:bilalsidd224@icloud.com)
