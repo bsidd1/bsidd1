@@ -17,4 +17,4 @@ I am a passionate learner currently diving into the world of **DevOps** and **Cl
 - 🤝 Looking for Junior DevOps opportunities
 
 ### 📫 Let's Connect
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your@email.com)
+[LinkedIn](www.linkedin.com/in/) | [Email](bilalsidd224@icloud.com )
